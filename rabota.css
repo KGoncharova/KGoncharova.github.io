@@ -1,0 +1,22 @@
+body {
+    font-family: Poppins;
+    line-height: 1.5;
+  
+    background-color: #fff;
+    color: #333333;
+  
+    width: 980px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 0;
+    color:magenta;
+  }
+  
+  main > h2 {
+    text-align: center;
+    font-size: 25px;
+  }
